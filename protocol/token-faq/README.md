@@ -22,13 +22,13 @@ Each pool has 7 days for mining since its start.
 
 ### **How much allocation for pool every 30 days**
 
-Pool allocation for 30 days is 8,000 YFUNI/Month and will decreased -25% YFUNI every 3 Months. After 9 Month will decreased -5% from -25%.
+Pool allocation for 30 days is 10,000 YFUNI/Month, 2nd Month will decreased -15% and 3rd Month will decreased -10% and Next month will stabilized decreased -5%
 
 ### **How does the earning calculated?**
 
 It’s equally distributed through time. For example, each hour **YFUNI/BNB** pool generates 
 
-* 8000/30/24 = 11,11111111111111 YFUNI / Hour
+* 10,000/30/24 = 13,88888888888889 YFUNI / Hour
 
 ### **Will YFUNI be listed on DEX?**
 
