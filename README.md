@@ -8,7 +8,7 @@ YFUNI Finance attempts to mitigate the traditional risks of depositing funds in 
 
 ## YFUNI Token
 
-**YFUNI Token** \(Next YFI on BSC\) will be distributed in the sprit of YFI: no pre-mine & no VC interests - simply equal-opportunity staking distribution to attract a broad and vision-aligned community to steward the future of the protocol and token.
+**YFUNI Token** \(Next YFI on BSC\) will be distributed in the sprit of YFI: No pre-mine, No Founder Shares & No VC interests - simply equal-opportunity staking distribution to attract a broad and vision-aligned community to steward the future of the protocol and token.
 
 YFUNI is governance token for YFUNI Ecosystem and is governed by YFUNI holders. Only 100,000 YFUNI minted and Distributed on YFUNI Ecosystem. Users holding YFUNI can participate in community proposals decisions. Each YFUNI pool will be charged fee of harvest token BaB \(Buyback and Burn\) Mechanism and for Dividend Pool. 
 
