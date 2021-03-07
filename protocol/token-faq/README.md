@@ -18,7 +18,7 @@ You need to mine YFUNI. Connect Metamask, Choose the pool and click on Approve. 
 
 ### **How long will the mining last?**
 
-Each pool has 7 days for mining since its start.
+Each pool has 30 days for mining since its start.
 
 ### **How much allocation for pool every 30 days**
 
