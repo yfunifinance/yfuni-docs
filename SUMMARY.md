@@ -12,21 +12,21 @@
   * [UNICORN Token](protocol/token-faq/unicorn-token.md)
   * [Token Sale](protocol/token-faq/token-sale.md)
   * [Audit Result](protocol/token-faq/audit-result.md)
-* [Partners](protocol/untitled.md)
+* [Partners](protocol/partners.md)
 
 ## Product
 
-* [uEarn](product/untitled.md)
-* [uVault](product/yvault.md)
-* [uBarter](product/ybarter.md)
-* [uBorrow](product/yborrow.md)
-* [uTokens](product/uassets.md)
-* [uMortgage](product/ymortgage.md)
+* [uEarn](product/uearn.md)
+* [uVault](product/uvault.md)
+* [uBarter](product/ubarter.md)
+* [uBorrow](product/uborrow.md)
+* [uTokens](product/utokens.md)
+* [uMortgage](product/umortgage.md)
 
 ## R&D
 
-* [uNFT](r-and-d/nft-ecosystem.md)
-* [uGov](r-and-d/governance.md)
+* [uNFT](r-and-d/unft.md)
+* [uGov](r-and-d/ugov.md)
 * [uSwap](r-and-d/uswap.md)
 * [uInsurance](r-and-d/uinsurance.md)
 
