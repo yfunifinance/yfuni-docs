@@ -9,7 +9,7 @@
 
 | Token Model | % | Details |
 | :--- | :--- | :--- |
-| **Developer Team** | 50% | 50% of the funds will be used to support the developer team |
+| **Development Funds** | 50% | 50% of the funds will be used to support the developer team |
 | **Liquidity Funds** | 40% | 40% of funds will be used to provide liquidity to Pancake Swap and other exchanges |
 | **Ecosystem Growth** | 10% | Marketing actions such as partnerships, awareness and go-to market strategy will account for 10% of the total funds raised \(Ecosystem Growth\) |
 
