@@ -79,6 +79,20 @@ Beside Presale, you can get UNICORN if you Farming and Staking Pool on YFUNI Eco
 
 **90% of Ecosystem Fund - 33,750,000 UNICORN Tokens** will be distributed in the future, more details coming soon....
 
+**Ecosystem Fund Comission**
+
+| Year | % | Supply |
+| :--- | :--- | :--- |
+| 1 Year | 10% | 3,750,000 UNICORN |
+| 2 Year | 10% | 3,750,000 UNICORN |
+| 3 Year | 10% | 3,750,000 UNICORN |
+
+**Other Ecosystem Fund Comission**
+
+| Flexible Locked | % | Supply |
+| :--- | :--- | :--- |
+| Used for Ecosystem | 70% | 26,250,000 UNICORN |
+
 ### **How long will the mining last?**
 
 Each pool has 30 days for mining since its start.
