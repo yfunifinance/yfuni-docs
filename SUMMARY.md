@@ -36,7 +36,7 @@
 * [DeFi Glossary](additional/defi-glossary.md)
 * [Website](https://yfuni.finance/)
 * [Twitter](https://twitter.com/yfunifinance)
-* [Medium](https://medium.com/@yfuni.finance)
+* [Medium](https://yfuni-finance.medium.com/)
 * [Github](https://www.github.com/yfunifinance)
 * [Telegram Group](https://t.me/yfunifinance)
 * [Telegram Announcement](https://t.me/yfuni)

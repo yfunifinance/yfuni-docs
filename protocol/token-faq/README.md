@@ -22,7 +22,28 @@ Each pool has 30 days for mining since its start.
 
 ### **How much allocation for pool every 30 days**
 
-Pool allocation for 30 days is 10,000 YFUNI/Month, 2nd Month will decreased -15% and 3rd Month will decreased -10% and Next month will stabilized decreased -5%
+Pool allocation for 30 days is 10,000 YFUNI/Month, 2nd Month will decreased -20% and 3rd Month will decreased -15%
+
+**Farming Emission**
+
+| Month | Decreased | Supply |
+| :--- | :--- | :--- |
+| 1 Month | 0 | 10,000 YFUNI |
+| 2 Month | -20% | 8,000 YFUNI |
+| 3 Month | -15% | 6,800 YFUNI |
+| 4 Month | -15% | 5,780 YFUNI |
+| 5 Month | -10% | 5,202 YFUNI |
+| 6 Month | -10% | 4,681.8 YFUNI |
+| 7 Month | -10% | 4,213.62 YFUNI |
+| 8 Month | -5% | 4,002.939 YFUNI |
+| 9 Month | -5% | 3,802.79205 YFUNI |
+| 10 Month | -5% | 3,612.65245 YFUNI |
+| 11 Month | -5% | 3,432.02553 YFUNI |
+| 12 Month | -5% | 3,260.42425 YFUNI |
+
+{% hint style="info" %}
+This calculation can change if the community proposal agrees to change to one of the best calculations in yfuni governance
+{% endhint %}
 
 ### **How does the earning calculated?**
 
