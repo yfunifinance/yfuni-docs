@@ -26,20 +26,21 @@ Pool allocation for 30 days is 10,000 YFUNI/Month, 2nd Month will decreased -20%
 
 **Farming Emission**
 
-| Month | Decreased | Supply |
-| :--- | :--- | :--- |
-| 1 Month | 0 | 10,000 YFUNI |
-| 2 Month | -20% | 8,000 YFUNI |
-| 3 Month | -15% | 6,800 YFUNI |
-| 4 Month | -15% | 5,780 YFUNI |
-| 5 Month | -10% | 5,202 YFUNI |
-| 6 Month | -10% | 4,681.8 YFUNI |
-| 7 Month | -10% | 4,213.62 YFUNI |
-| 8 Month | -5% | 4,002.939 YFUNI |
-| 9 Month | -5% | 3,802.79205 YFUNI |
-| 10 Month | -5% | 3,612.65245 YFUNI |
-| 11 Month | -5% | 3,432.02553 YFUNI |
-| 12 Month | -5% | 3,260.42425 YFUNI |
+**The Original Plan**
+
+* YFUNI-LP 4000/Month
+* UNICORN-LP 1000/Month
+* YFUNI-LP 3500/Month \(2nd Distribution\) \(after 6 Months\)
+* UNICORN-LP 750/Month \(2nd Distribution\) \(after 6 Months\)
+
+**The Adjusted Plan**
+
+* YFUNI-LP 4000/Month
+* UNICORN-LP 1000/Month
+* YFUNI-LP 3500/Month \(2nd Distribution\) \(after 6 Months\)
+* UNICORN-LP 750/Month \(2nd Distribution\) \(after 6 Months\)
+* CAKE-LP 1000/Month
+* BAKE-LP 1000/Month
 
 {% hint style="info" %}
 This calculation can change if the community proposal agrees to change to one of the best calculations in yfuni governance
@@ -49,7 +50,7 @@ This calculation can change if the community proposal agrees to change to one of
 
 It’s equally distributed through time. For example, each hour **YFUNI/BNB** pool generates 
 
-* 10,000/30/24 = 13,88888888888889 YFUNI / Hour
+* 4,000/30/24 = 5,555555555555556 YFUNI / Hour
 
 ### **Will YFUNI be listed on DEX?**
 
