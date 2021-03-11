@@ -22,7 +22,9 @@ Each pool has 30 days for mining since its start.
 
 ### **How much allocation for pool every 30 days**
 
-Pool allocation for 30 days is 10,000 YFUNI/Month, 2nd Month will decreased -20% and 3rd Month will decreased -15%
+Pool allocation for 30 days YFUNI-LP is 4,000 YFUNI/Month & UNICORN-LP is 1,000/Month
+
+ After 6 Month will decreased YFUNI-LP is 3,500 YFUNI/Month & UNICORN-LP is 750/Mont
 
 **Farming Emission**
 
