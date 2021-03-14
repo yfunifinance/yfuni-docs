@@ -12,7 +12,7 @@ With an initial circulating supply of only 5,000,000 tokens, which varies in ava
 * **Spec:** BEP-20
 * **Precision:** 18
 * **Smart Contract Address:** [https://bscscan.com/address/0xe3e1fabeabd48491bd6902b0c32fdeee8d2ff12b\#code](https://bscscan.com/address/0xe3e1fabeabd48491bd6902b0c32fdeee8d2ff12b#code)
-* **Audit Result:** Waiting result from QuillAudits
+* **Audit Result:** [https://yfuni.finance/unicorn-audit.pdf](https://yfuni.finance/unicorn-audit.pdf)
 
 ### Token Allocation
 
