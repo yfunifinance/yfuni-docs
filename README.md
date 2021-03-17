@@ -1,8 +1,8 @@
 # Introduction to YFUNI Finance
 
-YFUNI is a Yearn Inspired. Next-gen suite of products for revolutionizes Decentralized Finance \(DeFi\) Infrastructure. YFUNI Finance aims to provides new-innovation yield farming aggregation, lending aggregation, crypto banking investment on the Binance Smart Chain. it is designed to allows users to access the best yields available in YFUNI Ecosystem and DeFi market.
+YFUNI is a Yearn Inspired, next-gen suite of products that revolutionizes the Decentralized Finance \(DeFi\) Infrastructure. YFUNI Finance aims to provide new-innovation via yield farming aggregation, lending aggregation, crypto banking investment, all on the Binance Smart Chain. We have designed it to allow users to access the best yields available within the YFUNI Ecosystem and DeFi market.
 
-YFUNI Finance claimed powers a decentralized saving and multi-level interest generation protocol built on Binance Smartchain and the ecosystem can guarantee Equality, Equity and Security for users in staking Cryptocurrency assets, while simultaneously improving the user experience through its simplified DeFi smart portal.
+YFUNI powers a decentralized saving and multi-level interest generation protocol built on the Binance Smart Chain. The ecosystem can guarantee equality, equity and security for users in staking cryptocurrency assets whilst simultaneously improving the user experience through its simplified DeFi smart portal.
 
 YFUNI Finance attempts to mitigate the traditional risks of depositing funds in smart contracts by upping the governance powers of its users.
 
