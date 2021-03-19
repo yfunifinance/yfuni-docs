@@ -11,8 +11,8 @@
 * Sold : 905,714 UNICORN
 * Raised : 500,2 BNB
 * Token Burn : 94,286 UNICORN
-* Raised Funds will be allocated for marketing and development
 * Unlocked at TGE : 226,428.5 UNICORN
+* Raised Funds will be allocated for marketing and development
 
 ## 8% - 4,000,000 UNICORN Token will be sold on Token Sale
 
