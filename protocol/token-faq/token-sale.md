@@ -9,7 +9,7 @@
 * Price : 0.00056 BNB / $0.15
 * Vesting Period : Unlocked 25% at TGE and Unlocked 25% every 2 month
 * Sold : 905,000 UNICORN
-* Raised : 507,2 BNB
+* Raised : 506,8 BNB
 * Token Burn : 95,000 UNICORN
 * Unlocked at TGE : 226,250 UNICORN
 * Raised Funds will be allocated for marketing and development
@@ -39,7 +39,7 @@ IDO at [BSC Starter](https://bscstarter.finance/) : 19th March 2021 , 19:00 PM U
 * IDO : 4,000,000 UNICORN
 * Liquidity : 1,000,000 UNICORN
 * Private Sale : 226,250 UNICORN
-* Marketing : 210,714 UNICORN
+* Marketing : 211,428 UNICORN
 * Total Circulating Supply : 5,437,678 UNICORN
 
 ## Initial Market Cap
