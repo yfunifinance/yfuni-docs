@@ -38,18 +38,18 @@ IDO at [BSC Starter](https://bscstarter.finance/) : 19th March 2021 , 19:00 PM U
 
 * IDO : 4,000,000 UNICORN
 * Liquidity : 1,000,000 UNICORN
-* Private Sale : 226,428.5 UNICORN
+* Private Sale : 226,250 UNICORN
 * Marketing : 210,714 UNICORN
-* Total Circulating Supply : 5,437,142.5 UNICORN
+* Total Circulating Supply : 5,437,678 UNICORN
 
 ## Initial Market Cap
 
-* Total Circulating Supply : 5,437,142.5 UNICORN
-* Initial Marketcap : 2.174.857 USD
+* Total Circulating Supply : 5,437,678 UNICORN
+* Initial Marketcap : 2,175,071.2 USD
 
 ## Burn
 
-* 0.19% = 94,286 UNICORN
+* 0.19% = 95,000 UNICORN
 
 
 
