@@ -42,7 +42,7 @@ IDO at [BSC Starter](https://bscstarter.finance/) : 19th March 2021 , 19:00 PM U
 * Marketing : 210,714 UNICORN
 * Total Circulating Supply : 5,437,142.5 UNICORN
 
-## Initial Marketcap
+## Initial Market Cap
 
 * Total Circulating Supply : 5,437,142.5 UNICORN
 * Initial Marketcap : 2.174.857 USD
