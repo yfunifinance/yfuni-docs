@@ -8,10 +8,10 @@
 
 * Price : 0.00056 BNB / $0.15
 * Vesting Period : Unlocked 25% at TGE and Unlocked 25% every 2 month
-* Sold : 905,714 UNICORN
+* Sold : 905,000 UNICORN
 * Raised : 507,2 BNB
-* Token Burn : 94,286 UNICORN
-* Unlocked at TGE : 226,428.5 UNICORN
+* Token Burn : 95,000 UNICORN
+* Unlocked at TGE : 226,250 UNICORN
 * Raised Funds will be allocated for marketing and development
 
 ## 8% - 4,000,000 UNICORN Token will be sold on Token Sale
