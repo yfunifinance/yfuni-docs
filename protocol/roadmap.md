@@ -18,41 +18,32 @@ A Roadmap is a business planning technique which lays out the short and long ter
 
 ## **2021 Q1**
 
-1. Re-build YFUNI on Binance Smart Chain
-2. Launch ecosystem Unicorn token
-3. Token sale started
-4. DEX listing
-5. uFarming Launch
-6. uStaking Launch
-7. uInsurance Partnership 
-8. YFUNI hiring team
-9. Creating more strategic partners
+* Re-build YFUNI on Binance Smart Chain
+* Launch ecosystem Unicorn token
+* Token sale started
+* Dex listing
+* uEarn V1 Launch
+* Listing on CEX
+* Creating more strategic partners
 
 ## **2021 Q2**
 
-1. Listing on major exchange
-2. NFT and Pool management partnership
-3. uBarter Launch
-4. uVault Launch
-5. uBorrow Launch
-6. uGov Launch
-7. Social media marketing campaign
+* uEarn V2 Launch
+* uVault Launch
+* uBarter Launch
+* Social media marketing campaign
 
 ## **2021 Q3**
 
-1. uMortgage Launch
-2. uBridge Launch
-3. uAssets Launch
-4. Mobile App interface launch
-5. uNFT management and mining pool
-6. YFUNI NFT drop for holder
-7. Expand the Network
+* uBorrow Launch
+* uTokens Launch
+* uMortgage Launch
 
 ## **2021 Q4**
 
-1. uSwap Launch
-2. Mobile App Launch
-3. More update release soon
+* Research and Development started
+* Mobile App Interface
+* More update release soon
 
 ## YFUNI Holders will be able to vote for many proposals related to future developments within the YFUNI ecosystem
 
